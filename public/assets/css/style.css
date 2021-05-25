@@ -49,11 +49,11 @@ textarea {
   text-align: center;
 }
 
-.burgerToEat {
+.orderBurger {
   text-align: right;
 }
 
-.eatenBurger {
+.devouredBurger {
   text-align: left;
   color: grey;
 }
